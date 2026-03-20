@@ -27,5 +27,10 @@ src/
 2. Execute a classe `Main.java`
 3. Utilize o menu no console
 
+## Backend
+
+Este projeto consome a API disponível em:
+https://github.com/iohanaallen/UserApi
+
 ---
 Projeto desenvolvido para fins de estudo.
