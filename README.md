@@ -1,4 +1,4 @@
-# User Management - Java
+Java User Management System (CRUD)
 
 Sistema simples de gerenciamento de usuários (CRUD) desenvolvido em Java.
 
